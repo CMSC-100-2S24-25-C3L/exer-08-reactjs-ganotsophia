@@ -1,0 +1,100 @@
+.header{
+  display: flex;
+  padding: 10px;
+  text-align: center;
+  background: #fa5624;
+  color: rgb(255, 252, 251);
+  font-size: 30px;
+  justify-content: space-between;
+  align-items: center ;
+}
+
+.header h1{
+  margin: 0;
+  
+}
+
+.nav-menu {
+  display: flex;
+  gap: 15px;
+}
+
+
+.Appliances{
+  height: 350px; 
+  width: 300px;   
+  background-color: #f1dfd9;
+  margin-top: 70px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+
+.groceries{
+  height: 350px; 
+  width: 300px;   
+  background-color: #f1dfd9;
+  margin-top: 70px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.gadget{
+  height: 350px; 
+  width: 300px;   
+  background-color: #f1dfd9;
+  margin-top: 70px;
+  margin-left: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.clothing{
+  height: 350px; 
+  width: 300px;   
+  background-color: #f1dfd9;
+  margin-top: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.body{
+  height: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color: rgb(255, 225, 191);
+  gap: 5px;
+}
+
+img {
+  width: 250px;
+  height: 250px;  
+  object-fit: cover; 
+  margin: auto;
+  display: block;
+}
+
+
+button{
+  padding: 10px 15px;
+  background-color: #4678e4;
+  color: #ffffff;
+}
