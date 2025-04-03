@@ -1,12 +1,10 @@
-# React + Vite
+Exercise 8: React JS Part 1_Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sophia Reign N. Ganot
+BS Computer Science
 
-Currently, two official plugins are available:
+Link:
+https://github.com/CMSC-100-2S24-25-C3L/exer-08-reactjs-ganotsophia.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I have learned to explore Vite which is a tool for creating websites and React JS Components wherein it helps in breaking down several components (header, footer, body, etc.) into smaller components. In this exercise, I used component for my button. 
